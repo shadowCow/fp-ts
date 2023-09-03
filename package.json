@@ -1,0 +1,25 @@
+{
+  "name": "@cow-sunday/fp-ts",
+  "version": "1.0.0",
+  "description": "Miscellaneous funtional programming flavored utilities",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowCow/fp-ts.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "shadowCow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shadowCow/fp-ts/issues"
+  },
+  "homepage": "https://github.com/shadowCow/fp-ts#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
